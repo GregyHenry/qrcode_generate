@@ -4,6 +4,8 @@ Esse projeto para realizar a criação de links de QRCode utilizando ReactJs.
 
 This project to creation of QRCode links using ReactJs.
 
+Url: https://qrcode-generate-gregyhenry.vercel.app/
+
 ## Projeto / Project:
 
 <img width="337" alt="image" src="https://user-images.githubusercontent.com/92655806/185769432-b9aacc91-7b43-4d75-a97a-fe6cce2bbd18.png">
