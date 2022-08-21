@@ -30,8 +30,6 @@ function App() {
       <input
         className="input"
         type="text"
-        name=""
-        id=""
         placeholder="Digite seu link..."
         value={link}
         onChange={(e) => handleQrcode(e)}
